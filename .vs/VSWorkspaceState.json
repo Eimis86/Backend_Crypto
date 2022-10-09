@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Crypto-Api",
+    "\\Crypto-Api\\Configurations",
+    "\\Crypto-Api\\Contract",
+    "\\Crypto-Api\\Controllers",
+    "\\Crypto-Api\\Data",
+    "\\Crypto-Api\\Migrations",
+    "\\Crypto-Api\\Models",
+    "\\Crypto-Api\\Properties",
+    "\\Crypto-Api\\Repository"
+  ],
+  "SelectedNode": "\\Crypto-Api-Testing.sln",
+  "PreviewInSolutionExplorer": false
+}
